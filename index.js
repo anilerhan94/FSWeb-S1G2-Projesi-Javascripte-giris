@@ -19,7 +19,9 @@ Aşağıdakileri yap:
 
    İPUCU: fonksiyon oluşturmaya gerek yok
 */
-
+const kemal = [
+  yaş =  18 
+]
 /*
 Görev 1b - Değerler (puanlamaya dahil değildir)
 
